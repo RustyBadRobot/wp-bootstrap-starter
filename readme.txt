@@ -4,7 +4,7 @@ Tags: blog, custom-menu, featured-images, threaded-comments, translation-ready, 
 Requires at least: 4.0
 Tested up to: 4.7
 
-Copyright (c) 2016 by Afterimage Designs (http://afterimagedesigns.com/)
+Copyright (c) 2025 by Afterimage Designs (http://afterimagedesigns.com/)
 This Theme is distributed under the terms of the GNU GPL.
 
 License: GNU General Public License v2.0
@@ -25,7 +25,7 @@ Page templates
 * Blank without container Page
 
 Other features:
-* Currently using Bootstrap v4.3.1
+* Currently using Bootstrap v5.3.6
 * Font Awesome integrated
 * Widgetized footer area
 * WooCommerce ready
@@ -50,6 +50,7 @@ WP Bootstrap Starter includes support for Infinite Scroll in Jetpack.
 
 == Credits ==
 
+* Based on After Image Designs WP Bootstrap Starter https://github.com/afterimagedesigns/wp-bootstrap-starter, [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
 * Based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
 * normalize.css http://necolas.github.io/normalize.css/, (C) 2012-2016 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
 * Bootstrap http://getbootstrap.com, (C) 2011-2015 Twitter, Inc., [MIT] (https://github.com/twbs/bootstrap/blob/master/LICENSE)
@@ -57,6 +58,11 @@ WP Bootstrap Starter includes support for Infinite Scroll in Jetpack.
 * Font Awesome icons, Copyright (C) Dave Gandy License: SIL Open Font License, version 1.1. - http://fontawesome.io/
 
 == Changelog ==
+
+= 4.0.0 - May 29, 2025 =
+* Update Bootstrap to v5.3.6
+* Update the CDN link to jsDeliver
+* Add prefetch loading on the jsDeliver scripts and stylesheet
 
 = 3.3.2 - October 08, 2019 =
 * Update the CDN feature on the theme customizer
