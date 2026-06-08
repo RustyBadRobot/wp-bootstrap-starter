@@ -41,27 +41,6 @@ function wp_bootstrap_starter_customize_register( $wp_customize ) {
         'type'    => 'select',
         'choices' => array(
             'default' => 'Default',
-            'cerulean' => 'Cerulean',
-            'cosmo' => 'Cosmo',
-            'cyborg' => 'Cyborg',
-            'darkly' => 'Darkly',
-            'flatly' => 'Flatly',
-            'journal' => 'Journal',
-            'litera' => 'Litera',
-            'lumen' => 'Lumen',
-            'lux' => 'Lux',
-            'materia' => 'Materia',
-            'minty' => 'Minty',
-            'pulse' => 'Pulse',
-            'sandstone' => 'Sandstone',
-            'simplex' => 'Simplex',
-            'sketchy' => 'Sketchy',
-            'slate' => 'Slate',
-            'solar' => 'Solar',
-            'spacelab' => 'Spacelab',
-            'superhero' => 'Superhero',
-            'united' => 'United',
-            'yeti' => 'Yeti',
         )
     ) ) );
 
@@ -78,14 +57,6 @@ function wp_bootstrap_starter_customize_register( $wp_customize ) {
         'type'    => 'select',
         'choices' => array(
             'default' => 'Default',
-            'arbutusslab-opensans' => 'Arbutus Slab / Opensans',
-            'montserrat-merriweather' => 'Montserrat / Merriweather',
-            'montserrat-opensans' => 'Montserrat / Opensans',
-            'oswald-muli' => 'Oswald / Muli',
-            'poppins-lora' => 'Poppins / Lora',
-            'poppins-poppins' => 'Poppins / Poppins',
-            'roboto-roboto' => 'Roboto / Roboto',
-            'robotoslab-roboto' => 'Roboto Slab / Roboto',
         )
     ) ) );
 
