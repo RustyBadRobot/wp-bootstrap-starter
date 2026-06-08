@@ -382,7 +382,7 @@ if ( ! class_exists( 'WP_Bootstrap_Navwalker' ) ) {
 		 * arrays then remove them from the main classes array.
 		 *
 		 * Supported linkmods: .disabled, .dropdown-header, .dropdown-divider, .sr-only
-		 * Supported iconsets: Font Awesome 4/5, Glypicons
+		 * Supported iconsets: Glypicons
 		 *
 		 * NOTE: This accepts the linkmod and icon arrays by reference.
 		 *
@@ -412,10 +412,6 @@ if ( ! class_exists( 'WP_Bootstrap_Navwalker' ) ) {
 					 * depth greater than 0 - IE inside a dropdown.
 					 */
 					$linkmod_classes[] = $class;
-					unset( $classes[ $key ] );
-				} elseif ( preg_match( '/^fa-(\S*)?|^fa(s|r|l|b)?(\s?)?$/i', $class ) ) {
-					// Font Awesome.
-					$icon_classes[] = $class;
 					unset( $classes[ $key ] );
 				} elseif ( preg_match( '/^glyphicon-(\S*)?|^glyphicon(\s?)$/i', $class ) ) {
 					// Glyphicons.

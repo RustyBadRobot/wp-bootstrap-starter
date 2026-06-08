@@ -140,7 +140,6 @@ add_action( 'widgets_init', 'wp_bootstrap_starter_widgets_init' );
 function wp_bootstrap_starter_scripts() {
 	// load bootstrap css
     wp_enqueue_style( 'wp-bootstrap-starter-bootstrap-css', get_template_directory_uri() . '/inc/assets/css/bootstrap.min.css' );
-    wp_enqueue_style( 'wp-bootstrap-starter-fontawesome', get_template_directory_uri() . '/inc/assets/css/fontawesome.min.css' );
 	// load bootstrap css
 	// load AItheme styles
 	// load WP Bootstrap Starter styles

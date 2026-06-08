@@ -90,7 +90,7 @@
                     }
                     ?>
                 </p>
-                <a href="#content" class="page-scroller"><i class="fa fa-fw fa-angle-down"></i></a>
+                <a href="#content" class="page-scroller" aria-label="<?php esc_attr_e( 'Skip to content', 'wp-bootstrap-starter' ); ?>">&#x2304;</a>
             </div>
         </div>
     <?php endif; ?>

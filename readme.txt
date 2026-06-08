@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-The best WordPress starter theme based on the most powerful frameworks in the world: "_s" (by Automattic, the main people behind WordPress development), Twitter Bootstrap (the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web) and Font Awesome (or Fontawesome, a full suite of 675+ pictographic icons for easy scalable vector graphics on websites). This theme, like WordPress, is licensed under the GPL. You can use this theme as base for your next WordPress theme project and you are allowed to remove the link at the footer or do whatever you want. Your feedback on how we can continuously improve this WordPress Starter Theme Bootstrap will be highly appreciated. Page templates includes Right-sidebar (default page template), Left-Sidebar, Full-Width, Blank with container, Blank without container Page. Other features - Currently using Bootstrap v4.0.0-beta.2 , Widgetized footer area, WooCommerce ready, Compatible with Contact Form 7, Compatible with Visual Composer, Compatible with Elementor Page Builder. This theme will be an active project which we will update from time to time. Check this page regularly for the updates.
+The best WordPress starter theme based on the most powerful frameworks in the world: "_s" (by Automattic, the main people behind WordPress development) and Twitter Bootstrap (the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web). This theme, like WordPress, is licensed under the GPL. You can use this theme as base for your next WordPress theme project and you are allowed to remove the link at the footer or do whatever you want. Your feedback on how we can continuously improve this WordPress Starter Theme Bootstrap will be highly appreciated. Page templates includes Right-sidebar (default page template), Left-Sidebar, Full-Width, Blank with container, Blank without container Page. Other features - Currently using Bootstrap v4.0.0-beta.2 , Widgetized footer area, WooCommerce ready, Compatible with Contact Form 7, Compatible with Visual Composer, Compatible with Elementor Page Builder. This theme will be an active project which we will update from time to time. Check this page regularly for the updates.
 
 
 This theme, like WordPress, is licensed under the GPL. You can use this theme as base for your next WordPress theme project and you are allowed to remove the link at the footer or do whatever you want. Your feedback on how we can continuously improve this WordPress Starter Theme Bootstrap will be highly appreciated.
@@ -26,7 +26,6 @@ Page templates
 
 Other features:
 * Currently using Bootstrap v4.3.1
-* Font Awesome integrated
 * Widgetized footer area
 * WooCommerce ready
 * Compatible with Contact Form 7
@@ -54,7 +53,6 @@ WP Bootstrap Starter includes support for Infinite Scroll in Jetpack.
 * normalize.css http://necolas.github.io/normalize.css/, (C) 2012-2016 Nicolas Gallagher and Jonathan Neal, [MIT](http://opensource.org/licenses/MIT)
 * Bootstrap http://getbootstrap.com, (C) 2011-2015 Twitter, Inc., [MIT] (https://github.com/twbs/bootstrap/blob/master/LICENSE)
 * WP Bootstrap Navwalker https://github.com/wp-bootstrap/wp-bootstrap-navwalker, [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
-* Font Awesome icons, Copyright (C) Dave Gandy License: SIL Open Font License, version 1.1. - http://fontawesome.io/
 
 == Changelog ==
 
@@ -63,7 +61,6 @@ WP Bootstrap Starter includes support for Infinite Scroll in Jetpack.
 * Add new customizer settings for footer widgets and credits
 
 = 3.3.5 - October 13, 2020 =
-* FontAwesome issue fix https://wordpress.org/support/topic/font-awesome-broken-with-new-version-12-10-2020/
 
 = 3.3.4 - October 12, 2020 =
 * Update the stylesheet information
@@ -108,7 +105,6 @@ WP Bootstrap Starter includes support for Infinite Scroll in Jetpack.
 * Remove the condition on extras.php for the link - pingback tag
 
 = 3.2.3 - June 24, 2019 =
-* Update the Font Awesome to v5.8.2
 
 = 3.2.2 - June 06, 2019 =
 * Update the Bootstrap to v4.3 
@@ -124,13 +120,11 @@ WP Bootstrap Starter includes support for Infinite Scroll in Jetpack.
 * Remove the border arround the footer widget
 
 = 3.0.19 - July 10, 2018 =
-* Change the protocol the of fontawesome to https
 
 = 3.0.18 - June 27, 2018 =
 * Adjust the theme-script.js to fix the layout of woocommerce checkout
 
 = 3.0.17 - June 27, 2018 =
-* Update fontawesome cdn to v5.1.0
 * Fix the woocommerce checkout page layout
 
 = 3.0.16 - June 7, 2018 =
@@ -139,7 +133,6 @@ WP Bootstrap Starter includes support for Infinite Scroll in Jetpack.
 
 = 3.0.15 - May 7, 2018 =
 * Remove the font awesome files
-* Enqueue the fontawesome CDN
 
 = 3.0.14 - May 2, 2018 =
 * Update woocommerce files
@@ -177,7 +170,6 @@ WP Bootstrap Starter includes support for Infinite Scroll in Jetpack.
 * Fix the default values in customizer
 * Upgrade popper.js
 * Fix popper.js related warnings in console
-* Integrate fontawesome 5
 * Remove the unnecessary styling in the typography preset
 
 = 3.0.5 - December 29, 2017 =
